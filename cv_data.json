@@ -1,0 +1,98 @@
+{
+  "name": "Ghassan Mountassir",
+  "title": "Economics and International Commerce Student",
+  "contact": {
+    "phone": "+212652180407",
+    "email": "ghassan.mountassir@gmail.com"
+  },
+  "summary": "International Business student with a strong analytical mindset and a solid foundation in import-export operations, procurement, and performance analysis. Experienced across logistics, marketing, and public procurement, with the ability to deliver data-driven insights and support strategic decision making.",
+  "education": [
+    {
+      "degree": "5th year International Commerce Student",
+      "institution": "National School of Commerce and Management, Fès",
+      "years": "2021–present"
+    },
+    {
+      "degree": "Math Science Bachelor's Degree",
+      "institution": "Sijilmassa High School, Errachidia City",
+      "years": "2018–2021"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Inside LVMH Certificate - Creation & Branding, Operations & Supply Chain",
+      "date": "July 2025"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Logistics Intern",
+      "company": "La Société Industrielle Oléicole de Fès (SIOF)",
+      "date": "March 2025",
+      "details": "Analyzed and enhanced the supplier evaluation process and created an interactive Power BI dashboard to monitor supplier performance."
+    },
+    {
+      "role": "Digital Marketing Intern",
+      "company": "212 Digital Marketing Communication Agency",
+      "date": "July–September 2024",
+      "details": "Developed and monitored communication campaigns, analyzed performance metrics, and proposed strategic improvements."
+    },
+    {
+      "role": "Intern, Public Procurement Department",
+      "company": "AREF Fès",
+      "date": "June 2025",
+      "details": "Organized and archived administrative documents for public tenders, ensured regulatory compliance of submissions, and monitored contract timelines to guarantee timely execution."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Development of a New Branding Concept for the Fès-Meknès Region ('Sarini' Proposal)",
+      "date": "October 2024",
+      "details": "Developed a new branding concept integrating cultural heritage and regional identity, conducted market research, and created visual and communication proposals."
+    },
+    {
+      "name": "Eco-Humanitarian Trip Organization – ENVIRO-ENCGF",
+      "date": "May 2023",
+      "details": "Led the organization of an eco-humanitarian trip and multiple environmental initiatives, designing detailed programs and coordinating partnerships."
+    }
+  ],
+  "volunteering": [
+    {
+      "role": "President, Environmental Club (ENVIRO ENCGF)",
+      "years": "2023–2024"
+    },
+    {
+      "role": "General Secretary, Sports Club (Olympia ENCGF)",
+      "years": "2022–2023"
+    },
+    {
+      "role": "Debate Team Leader, English Section (TGD ENCGF)",
+      "years": "2024–2025"
+    },
+    {
+      "role": "Coach Student, Sijilmassa Reading Club",
+      "years": "2021"
+    },
+    {
+      "role": "Volunteer, Tiwizi 5 – Do It With Africa",
+      "years": "2019"
+    }
+  ],
+  "skills": {
+    "soft": ["Efficient communication", "Organization and time management", "Adaptability", "Team spirit", "Negotiation"],
+    "hard": [
+      "Python (Pandas, Matplotlib)",
+      "SQL",
+      "Microsoft Office Suite (Excel VBA, Power BI)",
+      "Import-export procedures and customs formalities",
+      "Documentation and contract management",
+      "Marketing and communication tools"
+    ]
+  },
+  "languages": {
+    "Arabic": "Native",
+    "English": "Fluent",
+    "French": "Fluent",
+    "Spanish": "Intermediate"
+  }
+}
